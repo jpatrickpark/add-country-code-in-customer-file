@@ -8,6 +8,9 @@ backup.py
 __pycache__/
 *.py[cod]
 *$py.class
+*.qrc
+*.ico
+*.qm
 
 # C extensions
 *.so
